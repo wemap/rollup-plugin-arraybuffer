@@ -1,0 +1,26 @@
+{
+  "name": "@wemap/rollup-plugin-arraybuffer",
+  "author": "Wemap",
+  "bugs": {
+    "url": "https://github.com/wemap/rollup-plugin-arraybuffer/issues"
+  },
+  "contributors": [
+    "Thibaud Michel <thibaud@getwemap.com>"
+  ],
+  "description": "Rollup plugin for arraybuffer",
+  "homepage": "https://github.com/wemap/rollup-plugin-arraybuffer",
+  "keywords": [
+    "rollup-plugin",
+    "arraybuffer"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wemap/rollup-plugin-arraybuffer.git"
+  },
+  "version": "0.1.1",
+  "dependencies": {
+    "@rollup/pluginutils": "^4.1.0"
+  }
+}
