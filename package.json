@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/wemap/rollup-plugin-arraybuffer.git"
   },
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "@rollup/pluginutils": "^4.1.0"
   }
